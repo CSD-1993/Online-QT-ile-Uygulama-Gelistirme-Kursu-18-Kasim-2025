@@ -1,20 +1,20 @@
 # Online QT ile Uygulama Geliştirme Kursu 18 Kasım 2025
 
-Açıklama; Ders akışı sırasında aşığda belirtilen konularda değişiklik yapılabilir. Yeni konular eklenebilir ya da bazı konular programdan çıkartılabilir. Ders konuları işlenme sırasına göre belirtilmemiştir. ARM C Uygulamaları ders programı STM32F1/STM32F4 işlemci mimarisi kullanılarak yürütülecektir. Geliştirme ortamı olarak IAR Embedded Workbench for ARM (EWARM) kullanılacaktır. Uygulama konularında "Blue Pill / Black Pill" kartlarının kullanılması planlanmaktadır. Ayrıca ST Mikroelektronika ve diğer firmalarının bazı kartları da kullanılacaktır.
+Açıklama: Bu kurs QT C++ sınıf kütüphanesini kullanarak uygulama geliştirmek isteyen programcılara yöneliktir.
 
-Ön Koşul: C programlama dilinin yeterli düzeyde bilinmesi, temel düzeyde elektronik bilgisi.
+Ön Koşul : C++ programlama konusunda uygulamalı çalışma yapmış olmak ya da C ve Sistem Programcıları Derneği’nin açmış olduğu C++ ve Nesne Yönelimli Programlamaya Giriş kursunu başarıyla bitirmiş olmak.
 
 ## Eğitim Süresi
-Eğitim Süresi __180__ Saattir.
+Eğitim Süresi __160__ Saattir.
 
 ## Ders Saatleri
-Dersler __Pazartesi-Çarşamba__ günleri saat __19:30-22:30__ saatleri arasında __3__ ’er saat olarak __(haftada 6 saat)__ yapılacaktır.
+Dersler __Salı ve Perşembe__ günleri saat __19:45-22:45__ saatleri arasında __3__ ’er saat olarak __(haftada 6 saat)__ yapılacaktır.
 
 ## Eğitmen
 Kurs __Gürbüz ASLAN__ tarafından verilmektedir.
 
 ## Kurs Ücreti
-Kursumuzun toplam ücreti KDV dahil __29.500__ TL’dir(Peşin ödemede __26.000__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __26.000__ TL’dir (peşin ödemede __23.000__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 3 taksit olarak ödeyebilirsiniz.
+Kursumuzun toplam ücreti KDV dahil __40.000__ TL’dir(Peşin ödemede __35.000__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __35.000__ TL’dir (peşin ödemede __31.000__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 
 ## Kursa Kayıt
 
