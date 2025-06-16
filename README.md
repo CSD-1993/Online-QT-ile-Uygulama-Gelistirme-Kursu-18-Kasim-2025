@@ -1,0 +1,1 @@
+# Online-QT-ile-Uygulama-Gelistirme-Kursu---18-Kasim-2025
